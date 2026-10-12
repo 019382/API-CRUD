@@ -1,5 +1,4 @@
 # API-CRUD
-API REST CRUD desenvolvida com FastAPI e MongoDB
 
 Sobre o projeto
 API REST desenvolvida em Python com FastAPI e MongoDB para realizar operações CRUD de produtos.
